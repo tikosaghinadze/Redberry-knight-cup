@@ -5,6 +5,7 @@ export default {
     extend: {
       colors: {
         headerBg: "#7025FB",
+        homeBg: "#FD5334",
       },
     },
   },
